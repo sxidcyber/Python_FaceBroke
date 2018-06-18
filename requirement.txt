@@ -1,0 +1,19 @@
+### MODULES NEEDED :
+
+- datetime --> installed automatic on Python v2.x
+- time ------> installed automatic on Python v2.x
+- os --------> installed automatic on Python v2.x
+- mechanize -> need to be downloaded or installed with PIP Install
+
+# Command to Install Mechanize :
+
+ pip install mechanize
+
+*** If You not installed PIP yet, Install it First, You can get it at :
+
+https://pypi.org/project/pip/
+
+
+### Python Version Recommended : version 2.7 and Up
+
+### Python Version Not Recommended : version 3.x and Up
